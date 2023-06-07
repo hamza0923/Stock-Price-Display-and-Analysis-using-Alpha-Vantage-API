@@ -1,6 +1,8 @@
 # Stock Prices Analysis with GUI
 
 This project allows you to analyze historical stock prices using the Alpha Vantage API and visualize the data in a graphical user interface (GUI) built with Tkinter. You can select a stock from a dropdown menu, view its closing prices over time, and perform linear regression analysis to predict future stock prices.
+## Interface
+![image](https://github.com/hamza0923/Stock-Price-Display-and-Analysis-using-Alpha-Vantage-API/assets/130615746/3b9b3fef-2703-4ccc-bb3a-a3eca0d89e17)
 
 ## Prerequisites
 
