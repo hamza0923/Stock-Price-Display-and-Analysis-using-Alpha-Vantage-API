@@ -30,5 +30,5 @@ The GUI window will open, and you can interact with it as follows:
 
 Note: The GUI will only display data for stocks selected. If a stock is not selected, the GUI will show "Selected Stock: NONE".
 
-##AUTHOR: Hamza Imran
-          Capital University of Science and Technology, Islamabad
+## AUTHOR: Hamza Imran,
+Capital University of Science and Technology, Islamabad
